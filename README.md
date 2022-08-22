@@ -1,7 +1,8 @@
 # Cat-or-Dog-Prediction-Using-CNN
 In this project we are looking forward to Predict Cat or Dog using CNN i.e Convolutional Neural Network 
 
-![alt text](/Users/himanshubairwa/Desktop/Python Deep Learning Practice/dataset/single_prediction/cat_or_dog_2.jpg)
+![cat_or_dog_2](https://user-images.githubusercontent.com/88283732/185985377-9316b444-fe70-40ce-aac1-656f0101c506.jpg)
+
 
 
 In this Project It is divided into several parts given below
