@@ -21,7 +21,7 @@ In this part we are performing several stages which are listed below
 
 Part-3: Training the CNN: 
 In this part we are training using 'adam' optimizer , loss function 'binary cross entropy' , and for measuring performance we are using "Accuracy metric".
-we are performing 25 epochs because data set is too large and after training the Accuracy is around 80%.
+We are performing 25 epochs because data set is too large and after training the Accuracy is around 80%.
 
 
 Part-4: Making single prediction: 
